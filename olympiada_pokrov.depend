@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642059685 source:c:\users\uchenik\desktop\olympiada_pokrov\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
